@@ -53,12 +53,12 @@ const Navbar = () => {
         <div className="flex flex-col items-center leading-tight">
           <Link href="/">
             <h1 className="text-3xl font-black italic tracking-tighter flex">
-              <span className="text-[#ff00ff]">sp</span>
-              <span className="text-[#ffcc00]">500</span>
+              <span className="text-[#ff00ff]">Tk</span>
+              <span className="text-[#ffcc00]">333</span>
             </h1>
             <div className="flex items-center gap-1">
                <span className="h-[1px] w-4 bg-gray-400"></span>
-               <span className="text-[10px] text-white font-medium uppercase tracking-widest">sp500.com</span>
+               <span className="text-[10px] text-white font-medium uppercase tracking-widest">Tk333.com</span>
                <span className="h-[1px] w-4 bg-gray-400"></span>
             </div>
           </Link>
