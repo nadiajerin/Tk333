@@ -7,9 +7,9 @@ const SocialSideVar = () => {
     <div className="fixed right-2 bottom-0 -translate-y-1/2 flex flex-col gap-6 z-50">
       
       {/* WhatsApp - Simple Green Circle */}
-      <div className="max-sm:w-10 mx-auto max-sm:h-10 w-12 h-12 bg-[#25D366] rounded-full flex items-center justify-center shadow-lg cursor-pointer hover:scale-110 transition-transform">
+      <Link href="https://wa.me/8801778229692" className="max-sm:w-10 mx-auto max-sm:h-10 w-12 h-12 bg-[#25D366] rounded-full flex items-center justify-center shadow-lg cursor-pointer hover:scale-110 transition-transform">
         <FaWhatsapp className="text-white text-3xl" />
-      </div>
+      </Link>
 
       {/* Facebook - 3D Orb with Gold Accents */}
       <Link href="https://www.facebook.com/ahmed.ahiya.NA/" className="relative group cursor-pointer hover:scale-110 transition-transform">
